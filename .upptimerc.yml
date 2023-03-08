@@ -5,7 +5,6 @@ repo: EssentialCSharp.Status # The name of this repository
 sites:
   - name: EssentialCSharp
     url: https://essentialcsharp.com/
-    logoUrl: https://essentialcsharp.com/images/icon.png
   - name: IntelliTect.com
     url: https://intellitect.com/
 
@@ -31,3 +30,6 @@ commitMessages:
   graphsUpdate: ":bento: Update graphs [skip ci]"
   commitAuthorName: "intellitect-bot"
   commitAuthorEmail: "intellitect-ci@IntelliTect.com"
+
+i18n:
+ footer: This page is [created]($REPO). Powered by [IntelliTect](https://intellitect.com/)
