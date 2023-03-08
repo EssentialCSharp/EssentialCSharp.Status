@@ -5,6 +5,8 @@ repo: EssentialCSharp.Status # The name of this repository
 sites:
   - name: EssentialCSharp
     url: https://essentialcsharp.com/
+    assignees:
+      - BenjaminMichaelis
   - name: IntelliTect.com
     url: https://intellitect.com/
 
@@ -17,8 +19,6 @@ status-website:
   introTitle: "This status page monitors EssentialCSharp.com"
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
-    - title: Status
-      href: /
     - title: EssentialCSharp
       href: https://essentialcsharp.com/
     - title: IntelliTect
