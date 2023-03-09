@@ -12,14 +12,14 @@ sites:
     url: https://intellitect.com/
 
 status-website:
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
   baseUrl: /EssentialCSharp.Status
   logoUrl: https://intellitect.com/wp-content/uploads/2019/07/IntelliTect_BlueBlack.png
   name: IntelliTect Status
   introTitle: "This status page monitors EssentialCSharp.com"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/IntelliTect/EssentialCSharp.Status).
   navbar:
+    - title: Status
+      href: /
     - title: EssentialCSharp
       href: https://essentialcsharp.com/
     - title: IntelliTect
