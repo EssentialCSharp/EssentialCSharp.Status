@@ -31,6 +31,9 @@ commitMessages:
   graphsUpdate: ":bento: Update graphs [skip ci]"
   commitAuthorName: "intellitect-bot"
   commitAuthorEmail: "intellitect-ci@IntelliTect.com"
+  
+workflowSchedule:
+  uptime: "*/5 * * * *"
 
 i18n:
   footer: This page is [open source]($REPO). Powered by [IntelliTect](https://intellitect.com/)
