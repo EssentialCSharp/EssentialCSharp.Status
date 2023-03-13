@@ -22,17 +22,19 @@
     "url": "https://intellitect.com/",
     "icon": "https://icons.duckduckgo.com/ip3/intellitect.com.ico",
     "slug": "intelli-tect-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1093,
-    "timeDay": 815,
-    "timeWeek": 1093,
-    "timeMonth": 1093,
-    "timeYear": 1093,
-    "dailyMinutesDown": {}
+    "time": 1064,
+    "timeDay": 597,
+    "timeWeek": 1064,
+    "timeMonth": 1064,
+    "timeYear": 1064,
+    "dailyMinutesDown": {
+      "2023-03-13": 0
+    }
   }
 ]
