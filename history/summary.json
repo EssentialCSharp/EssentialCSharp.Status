@@ -4,19 +4,19 @@
     "url": "https://essentialcsharp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/essentialcsharp.com.ico",
     "slug": "essential-c-sharp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 487,
-    "timeDay": 1114,
-    "timeWeek": 487,
-    "timeMonth": 487,
-    "timeYear": 487,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "99.39%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 473,
+    "timeDay": 775,
+    "timeWeek": 473,
+    "timeMonth": 473,
+    "timeYear": 473,
     "dailyMinutesDown": {
-      "2023-03-14": 0
+      "2023-03-14": 9
     }
   },
   {
