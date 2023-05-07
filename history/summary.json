@@ -24,7 +24,7 @@
     "url": "https://intellitect.com/",
     "icon": "https://icons.duckduckgo.com/ip3/intellitect.com.ico",
     "slug": "intelli-tect-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.91%",
@@ -36,6 +36,7 @@
     "timeMonth": 642,
     "timeYear": 866,
     "dailyMinutesDown": {
+      "2023-05-07": 0,
       "2023-05-04": 9,
       "2023-04-24": 10,
       "2023-04-22": 10,
