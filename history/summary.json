@@ -4,10 +4,10 @@
     "url": "https://essentialcsharp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/essentialcsharp.com.ico",
     "slug": "essential-c-sharp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 428,
@@ -16,6 +16,7 @@
     "timeMonth": 439,
     "timeYear": 428,
     "dailyMinutesDown": {
+      "2023-08-08": 1,
       "2023-03-14": 9
     }
   },
@@ -24,7 +25,7 @@
     "url": "https://intellitect.com/",
     "icon": "https://icons.duckduckgo.com/ip3/intellitect.com.ico",
     "slug": "intelli-tect-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -36,6 +37,7 @@
     "timeMonth": 722,
     "timeYear": 785,
     "dailyMinutesDown": {
+      "2023-08-08": 0,
       "2023-07-26": 9,
       "2023-06-05": 12,
       "2023-06-03": 9,
