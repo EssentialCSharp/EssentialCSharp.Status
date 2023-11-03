@@ -32,4 +32,4 @@ workflowSchedule:
   uptime: "*/5 * * * *"
 
 i18n:
-  footer: This page is [open source]($REPO). Powered by [EssentialC#](https://essentialcsharp.com/)
+  footer: This page is [open source]($REPO). Powered by [Essential C#](https://essentialcsharp.com/)
