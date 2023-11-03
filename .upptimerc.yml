@@ -25,8 +25,8 @@ commitMessages:
   readmeContent: ":pencil: Update summary in README [skip ci]"
   summaryJson: ":card_file_box: Update status summary [skip ci]"
   graphsUpdate: ":bento: Update graphs [skip ci]"
-  commitAuthorName: "intellitect-bot"
-  commitAuthorEmail: "intellitect-ci@IntelliTect.com"
+  commitAuthorName: "BenjaminMichaelisBot"
+  commitAuthorEmail: "127451266+BenjaminMichaelisBot@users.noreply.github.com"
   
 workflowSchedule:
   uptime: "*/5 * * * *"
