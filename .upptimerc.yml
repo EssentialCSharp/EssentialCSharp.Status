@@ -11,13 +11,13 @@ sites:
 status-website:
   baseUrl: /EssentialCSharp.Status
   logoUrl: https://essentialcsharp.com/favicon.ico
-  name: EssentialC# Status
+  name: Essential C# Status
   introTitle: "This status page monitors EssentialCSharp.com"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/EssentialCSharp/EssentialCSharp.Status).
   navbar:
     - title: Status
       href: /
-    - title: EssentialCSharp
+    - title: EssentialCSharp.com
       href: https://essentialcsharp.com/
 
 commitMessages:
