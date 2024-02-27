@@ -4,7 +4,7 @@
     "url": "https://essentialcsharp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/essentialcsharp.com.ico",
     "slug": "essential-c-sharp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 432,
     "timeYear": 436,
     "dailyMinutesDown": {
+      "2024-02-27": 0,
       "2023-08-08": 28,
       "2023-03-14": 9
     }
